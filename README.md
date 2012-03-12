@@ -27,10 +27,11 @@ Additional Coding Conventions and Information
 Projects following these conventions
 ------------------------------------
 
-* [JBoss-AS](https://github.com/jbossas)
+* [JBoss AS](https://github.com/jbossas)
 * [AeroGear](https://github.com/aerogear)
 * [RichFaces](https://github.com/richfaces)
-* TODO
+* [Seam 3](http://seamframework.org/Seam3)
+* ...
 
 If your JBoss project follows these conventions,
-[fork and edit this file](https://github.com/jboss/ide-config/edit/master/README.md) and add your project.
+[fork and edit this file](https://github.com/jboss/ide-config/edit/master/README.md) (which can be done directly from the github web interface) and add your project.
